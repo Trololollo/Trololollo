@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Trololollo
+- 👋 Hi, I’m nett
 - 👀 I’m interested in OSINT
